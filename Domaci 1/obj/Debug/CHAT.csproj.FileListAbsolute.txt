@@ -1,0 +1,7 @@
+C:\Users\Nazim\source\repos\Domaci\CHAT\obj\Debug\CHAT.csproj.AssemblyReference.cache
+C:\Users\Nazim\source\repos\Domaci\CHAT\obj\Debug\CHAT.csproj.CoreCompileInputs.cache
+C:\Users\Nazim\source\repos\Domaci\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\Nazim\source\repos\Domaci\CHAT\bin\Debug\CHAT.exe
+C:\Users\Nazim\source\repos\Domaci\CHAT\bin\Debug\CHAT.pdb
+C:\Users\Nazim\source\repos\Domaci\CHAT\obj\Debug\CHAT.exe
+C:\Users\Nazim\source\repos\Domaci\CHAT\obj\Debug\CHAT.pdb
