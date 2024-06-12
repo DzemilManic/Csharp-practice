@@ -1,0 +1,15 @@
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\bin\Debug\Pong_game.exe.config
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\bin\Debug\Pong_game.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\bin\Debug\Pong_game.pdb
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.csproj.AssemblyReference.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\MainWindow.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\App.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game_MarkupCompile.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game_MarkupCompile.lref
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\MainWindow.baml
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.g.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.Properties.Resources.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.csproj.GenerateResource.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.csproj.CoreCompileInputs.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\Pong_game\Pong_game\obj\Debug\Pong_game.pdb
