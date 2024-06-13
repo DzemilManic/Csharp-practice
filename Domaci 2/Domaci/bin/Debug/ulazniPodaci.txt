@@ -1,0 +1,6 @@
+Maxi, Limuzina, 90, +
+Pink, Limuzina, 95, -
+Uber, Karavan, 97, +
+Tahi, Limuzina, 105, +
+Akica, Limuzina, 122, +
+Beko, Karavan, 140, +

@@ -1,0 +1,15 @@
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\bin\Debug\CardMemoryGame.exe.config
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\bin\Debug\CardMemoryGame.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\bin\Debug\CardMemoryGame.pdb
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.csproj.AssemblyReference.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\MainWindow.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\App.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame_MarkupCompile.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame_MarkupCompile.lref
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\MainWindow.baml
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.g.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.Properties.Resources.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.csproj.GenerateResource.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\CardMemoryGame\CardMemoryGame\obj\Debug\CardMemoryGame.pdb

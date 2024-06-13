@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\vojska\\view\\listavojnici.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\view\\listavojnici.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\view\\dodajvojnika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\view\\dodajvojnika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\view\\listavojnici.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\view\\listavojnici.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\models\\vod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\models\\vod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\models\\vojnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\models\\vojnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\vojska\\vojska\\view\\dodajvojnika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A2E8446-2333-4A1E-B36F-F9FEC7AD2D6A}|Vojska\\Vojska.csproj|solutionrelative:vojska\\view\\dodajvojnika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DodajVojnika.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\DodajVojnika.xaml.cs",
+              "RelativeDocumentMoniker": "Vojska\\View\\DodajVojnika.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\DodajVojnika.xaml.cs",
+              "RelativeToolTip": "Vojska\\View\\DodajVojnika.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:03:11.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Vojska\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\MainWindow.xaml",
+              "RelativeToolTip": "Vojska\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T18:05:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DodajVojnika.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\DodajVojnika.xaml",
+              "RelativeDocumentMoniker": "Vojska\\View\\DodajVojnika.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\DodajVojnika.xaml",
+              "RelativeToolTip": "Vojska\\View\\DodajVojnika.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T18:05:12.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vojnik.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\Models\\Vojnik.cs",
+              "RelativeDocumentMoniker": "Vojska\\Models\\Vojnik.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\Models\\Vojnik.cs",
+              "RelativeToolTip": "Vojska\\Models\\Vojnik.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:04:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vod.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\Models\\Vod.cs",
+              "RelativeDocumentMoniker": "Vojska\\Models\\Vod.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\Models\\Vod.cs",
+              "RelativeToolTip": "Vojska\\Models\\Vod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:04:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaVojnici.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\ListaVojnici.xaml.cs",
+              "RelativeDocumentMoniker": "Vojska\\View\\ListaVojnici.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\ListaVojnici.xaml.cs",
+              "RelativeToolTip": "Vojska\\View\\ListaVojnici.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAArwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:28:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaVojnici.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\ListaVojnici.xaml",
+              "RelativeDocumentMoniker": "Vojska\\View\\ListaVojnici.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Vojska\\Vojska\\View\\ListaVojnici.xaml",
+              "RelativeToolTip": "Vojska\\View\\ListaVojnici.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T17:28:06.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
