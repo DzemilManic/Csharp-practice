@@ -1,0 +1,17 @@
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\bin\Debug\X-Ogame.exe.config
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\bin\Debug\X-Ogame.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\bin\Debug\X-Ogame.pdb
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.csproj.AssemblyReference.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\MainWindow.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\App.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame_MarkupCompile.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame_MarkupCompile.lref
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\MainWindow.baml
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.g.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X_Ogame.Properties.Resources.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.csproj.GenerateResource.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.csproj.CoreCompileInputs.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\X-Ogame.pdb
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\Igrica.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\X-Ogame\X-Ogame\obj\Debug\Igrica.baml
