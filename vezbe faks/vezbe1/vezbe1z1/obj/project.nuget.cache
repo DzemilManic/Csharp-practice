@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgbzYRwM6Gqo443fTEzgGdLFop9y83U/U/l/hw3S2m0BDwxlB0DhWuVrDGfAFLgdYewRitIk5rC6fdLaHb9osw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z1\\vezbe1z1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nazim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nazim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nazim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Nazim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

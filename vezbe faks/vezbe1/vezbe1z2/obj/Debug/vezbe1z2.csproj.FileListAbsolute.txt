@@ -1,0 +1,8 @@
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\obj\Debug\vezbe1z2.csproj.AssemblyReference.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\obj\Debug\vezbe1z2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\obj\Debug\vezbe1z2.csproj.CoreCompileInputs.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\bin\Debug\vezbe1z2.exe.config
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\bin\Debug\vezbe1z2.exe
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\bin\Debug\vezbe1z2.pdb
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\obj\Debug\vezbe1z2.exe
+C:\Users\mas3\source\repos\vezbe1\vezbe1z2\obj\Debug\vezbe1z2.pdb

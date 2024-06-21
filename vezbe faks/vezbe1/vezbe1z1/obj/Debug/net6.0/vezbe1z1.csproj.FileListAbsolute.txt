@@ -1,0 +1,15 @@
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\bin\Debug\net6.0\vezbe1z1.exe
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\bin\Debug\net6.0\vezbe1z1.deps.json
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\bin\Debug\net6.0\vezbe1z1.runtimeconfig.json
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\bin\Debug\net6.0\vezbe1z1.dll
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\bin\Debug\net6.0\vezbe1z1.pdb
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.csproj.AssemblyReference.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.AssemblyInfoInputs.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.AssemblyInfo.cs
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.csproj.CoreCompileInputs.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.dll
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\refint\vezbe1z1.dll
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.pdb
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\vezbe1z1.genruntimeconfig.cache
+C:\Users\mas3\source\repos\vezbe1\vezbe1z1\obj\Debug\net6.0\ref\vezbe1z1.dll

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|solutionrelative:vezbe1z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D1251D-2873-4BD0-89AB-0BE047C4909E}|vezbe1z4\\vezbe1z4.csproj|C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D1251D-2873-4BD0-89AB-0BE047C4909E}|vezbe1z4\\vezbe1z4.csproj|solutionrelative:vezbe1z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|solutionrelative:vezbe1z3\\kvadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z3\\krug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50116021-BBC8-413B-A2C2-0ADD32DDFD67}|vezbe1z3\\vezbe1z3.csproj|solutionrelative:vezbe1z3\\krug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4953DDED-4D2C-46B4-B608-B8AA86353A57}|vezbe1z2\\vezbe1z2.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4953DDED-4D2C-46B4-B608-B8AA86353A57}|vezbe1z2\\vezbe1z2.csproj|solutionrelative:vezbe1z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754875A2-52EC-4B2F-ABD8-45A3EB9C97BA}|vezbe1z1\\vezbe1z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754875A2-52EC-4B2F-ABD8-45A3EB9C97BA}|vezbe1z1\\vezbe1z1.csproj|solutionrelative:vezbe1z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754875A2-52EC-4B2F-ABD8-45A3EB9C97BA}|vezbe1z1\\vezbe1z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe1\\vezbe1z1\\vezbe1z1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{754875A2-52EC-4B2F-ABD8-45A3EB9C97BA}|vezbe1z1\\vezbe1z1.csproj|solutionrelative:vezbe1z1\\vezbe1z1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z4\\Program.cs",
+              "RelativeDocumentMoniker": "vezbe1z4\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z4\\Program.cs",
+              "RelativeToolTip": "vezbe1z4\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:45:28.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Program.cs",
+              "RelativeDocumentMoniker": "vezbe1z3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Program.cs",
+              "RelativeToolTip": "vezbe1z3\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:52:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kvadrat.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Kvadrat.cs",
+              "RelativeDocumentMoniker": "vezbe1z3\\Kvadrat.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Kvadrat.cs",
+              "RelativeToolTip": "vezbe1z3\\Kvadrat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:52:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Krug.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Krug.cs",
+              "RelativeDocumentMoniker": "vezbe1z3\\Krug.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z3\\Krug.cs",
+              "RelativeToolTip": "vezbe1z3\\Krug.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:51:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z2\\Program.cs",
+              "RelativeDocumentMoniker": "vezbe1z2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z2\\Program.cs",
+              "RelativeToolTip": "vezbe1z2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:51:33.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z1\\Program.cs",
+              "RelativeDocumentMoniker": "vezbe1z1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z1\\Program.cs",
+              "RelativeToolTip": "vezbe1z1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:50:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vezbe1z1",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z1\\vezbe1z1.csproj",
+              "RelativeDocumentMoniker": "vezbe1z1\\vezbe1z1.csproj",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe1\\vezbe1z1\\vezbe1z1.csproj",
+              "RelativeToolTip": "vezbe1z1\\vezbe1z1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T12:50:52.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
