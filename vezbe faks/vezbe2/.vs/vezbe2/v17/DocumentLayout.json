@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe2\\vezbe2z1\\igra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|solutionrelative:vezbe2z1\\igra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe2\\vezbe2z1\\racunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|solutionrelative:vezbe2z1\\racunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe2\\vezbe2z1\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|solutionrelative:vezbe2z1\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe2\\vezbe2z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0968D-EC19-4CF2-9413-5FCAC486FD0A}|vezbe2z1\\vezbe2z1.csproj|solutionrelative:vezbe2z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Racunar.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Racunar.cs",
+              "RelativeDocumentMoniker": "vezbe2z1\\Racunar.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Racunar.cs",
+              "RelativeToolTip": "vezbe2z1\\Racunar.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:57:47.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Program.cs",
+              "RelativeDocumentMoniker": "vezbe2z1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Program.cs",
+              "RelativeToolTip": "vezbe2z1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:57:47.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Igrac.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Igrac.cs",
+              "RelativeDocumentMoniker": "vezbe2z1\\Igrac.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Igrac.cs",
+              "RelativeToolTip": "vezbe2z1\\Igrac.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:57:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Igra.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Igra.cs",
+              "RelativeDocumentMoniker": "vezbe2z1\\Igra.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe2\\vezbe2z1\\Igra.cs",
+              "RelativeToolTip": "vezbe2z1\\Igra.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:57:46.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
