@@ -1,0 +1,8 @@
+C:\Users\mas3\source\repos\z5\z5\bin\Debug\z5.exe.config
+C:\Users\mas3\source\repos\z5\z5\bin\Debug\z5.exe
+C:\Users\mas3\source\repos\z5\z5\bin\Debug\z5.pdb
+C:\Users\mas3\source\repos\z5\z5\obj\Debug\z5.csproj.AssemblyReference.cache
+C:\Users\mas3\source\repos\z5\z5\obj\Debug\z5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mas3\source\repos\z5\z5\obj\Debug\z5.csproj.CoreCompileInputs.cache
+C:\Users\mas3\source\repos\z5\z5\obj\Debug\z5.exe
+C:\Users\mas3\source\repos\z5\z5\obj\Debug\z5.pdb

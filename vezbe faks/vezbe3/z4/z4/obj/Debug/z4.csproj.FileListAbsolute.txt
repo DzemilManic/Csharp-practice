@@ -1,0 +1,8 @@
+C:\Users\mas3\source\repos\z4\z4\bin\Debug\z4.exe.config
+C:\Users\mas3\source\repos\z4\z4\bin\Debug\z4.exe
+C:\Users\mas3\source\repos\z4\z4\bin\Debug\z4.pdb
+C:\Users\mas3\source\repos\z4\z4\obj\Debug\z4.csproj.AssemblyReference.cache
+C:\Users\mas3\source\repos\z4\z4\obj\Debug\z4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mas3\source\repos\z4\z4\obj\Debug\z4.csproj.CoreCompileInputs.cache
+C:\Users\mas3\source\repos\z4\z4\obj\Debug\z4.exe
+C:\Users\mas3\source\repos\z4\z4\obj\Debug\z4.pdb
