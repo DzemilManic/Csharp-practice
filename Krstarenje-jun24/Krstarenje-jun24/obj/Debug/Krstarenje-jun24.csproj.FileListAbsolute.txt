@@ -1,0 +1,15 @@
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\bin\Debug\Krstarenje-jun24.exe.config
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\bin\Debug\Krstarenje-jun24.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\bin\Debug\Krstarenje-jun24.pdb
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.csproj.AssemblyReference.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\MainWindow.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\App.g.cs
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24_MarkupCompile.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24_MarkupCompile.lref
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\MainWindow.baml
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.g.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje_jun24.Properties.Resources.resources
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.csproj.GenerateResource.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.csproj.CoreCompileInputs.cache
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.exe
+C:\Users\Nazim\Desktop\Džemil\GitHub\Krstarenje-jun24\Krstarenje-jun24\obj\Debug\Krstarenje-jun24.pdb
