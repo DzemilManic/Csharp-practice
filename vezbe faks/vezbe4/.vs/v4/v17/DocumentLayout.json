@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C30786-6133-4382-9A7D-941C74728265}|z3\\z3.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe4\\z3\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{19C30786-6133-4382-9A7D-941C74728265}|z3\\z3.csproj|solutionrelative:z3\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C30786-6133-4382-9A7D-941C74728265}|z3\\z3.csproj|c:\\users\\nazim\\desktop\\repos\\vezbe4\\z3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19C30786-6133-4382-9A7D-941C74728265}|z3\\z3.csproj|solutionrelative:z3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe4\\z3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe4\\z3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "z3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:06:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe4\\z3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "z3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\repos\\vezbe4\\z3\\MainWindow.xaml",
+              "RelativeToolTip": "z3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T13:06:44.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

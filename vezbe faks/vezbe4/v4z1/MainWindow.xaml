@@ -1,0 +1,24 @@
+﻿<Window x:Class="v4z1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:v4z1"
+        mc:Ignorable="d"
+        Title="Nasa prva aplikacija" Height="597" Width="1000" Background="#FF7FFD42" MinWidth="400" MinHeight="250" Topmost="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="1" Content="Lijevo dugme" Height="46" Width="100"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Desno dugme" Click="Button_Click"/>
+
+    </Grid>
+</Window>

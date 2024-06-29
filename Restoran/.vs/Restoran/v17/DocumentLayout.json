@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\aktivan_kuvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\aktivan_kuvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\jelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\aktivan_sto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\aktivan_sto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\pult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\pult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\porudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\porudzbina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\meni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\meni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\restoran\\restoran\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB14DE-87AE-4455-BEB2-E526FE7F8871}|Restoran\\Restoran.csproj|solutionrelative:restoran\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aktivan_kuvar.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Aktivan_kuvar.cs",
+              "RelativeDocumentMoniker": "Restoran\\Aktivan_kuvar.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Aktivan_kuvar.cs",
+              "RelativeToolTip": "Restoran\\Aktivan_kuvar.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA4wCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:57:31.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aktivan_sto.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Aktivan_sto.cs",
+              "RelativeDocumentMoniker": "Restoran\\Aktivan_sto.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Aktivan_sto.cs",
+              "RelativeToolTip": "Restoran\\Aktivan_sto.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:45:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pult.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Pult.cs",
+              "RelativeDocumentMoniker": "Restoran\\Pult.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Pult.cs",
+              "RelativeToolTip": "Restoran\\Pult.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:31:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Porudzbina.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Porudzbina.cs",
+              "RelativeDocumentMoniker": "Restoran\\Porudzbina.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Porudzbina.cs",
+              "RelativeToolTip": "Restoran\\Porudzbina.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:25:31.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meni.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Meni.cs",
+              "RelativeDocumentMoniker": "Restoran\\Meni.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Meni.cs",
+              "RelativeToolTip": "Restoran\\Meni.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAawCgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:59:33.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jelo.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Jelo.cs",
+              "RelativeDocumentMoniker": "Restoran\\Jelo.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\Jelo.cs",
+              "RelativeToolTip": "Restoran\\Jelo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwCYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:31:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Restoran\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\MainWindow.xaml",
+              "RelativeToolTip": "Restoran\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T12:31:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restoran\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Restoran\\Restoran\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Restoran\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:31:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
