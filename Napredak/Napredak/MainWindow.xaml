@@ -1,0 +1,28 @@
+﻿<Window x:Class="Napredak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Napredak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Canvas x:Name="pravougaoniCanvas" Grid.Row="0" Background="LightGray" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <!-- Pravougaoni indikator će se dinamički dodati ovde -->
+        </Canvas>
+
+        <Canvas x:Name="kruzniCanvas" Grid.Row="0" Background="LightGray" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <!-- Kružni indikator će se dinamički dodati ovde -->
+        </Canvas>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+            <Button x:Name="btnKreni" Content="Kreni" Width="80" Margin="5" Click="BtnKreni_Click" />
+            <Button x:Name="btnZaustavi" Content="Zaustavi" Width="80" Margin="5" Click="BtnZaustavi_Click" IsEnabled="False" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\napredak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\napredak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\aktivan_posao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\aktivan_posao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\pravougaoni_indikator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\pravougaoni_indikator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\kruzni_indikator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\kruzni_indikator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\indikator_napretka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\indikator_napretka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\napredak\\napredak\\simulirani_posao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE0B1A4-106D-4FCC-ABCC-C341E62A394F}|Napredak\\Napredak.csproj|solutionrelative:napredak\\simulirani_posao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Napredak.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Napredak.cs",
+              "RelativeDocumentMoniker": "Napredak\\Napredak.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Napredak.cs",
+              "RelativeToolTip": "Napredak\\Napredak.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAASwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:31:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kruzni_indikator.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Kruzni_indikator.cs",
+              "RelativeDocumentMoniker": "Napredak\\Kruzni_indikator.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Kruzni_indikator.cs",
+              "RelativeToolTip": "Napredak\\Kruzni_indikator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:27:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pravougaoni_indikator.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Pravougaoni_indikator.cs",
+              "RelativeDocumentMoniker": "Napredak\\Pravougaoni_indikator.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Pravougaoni_indikator.cs",
+              "RelativeToolTip": "Napredak\\Pravougaoni_indikator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:25:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Indikator_napretka.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Indikator_napretka.cs",
+              "RelativeDocumentMoniker": "Napredak\\Indikator_napretka.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Indikator_napretka.cs",
+              "RelativeToolTip": "Napredak\\Indikator_napretka.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:23:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aktivan_posao.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Aktivan_posao.cs",
+              "RelativeDocumentMoniker": "Napredak\\Aktivan_posao.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Aktivan_posao.cs",
+              "RelativeToolTip": "Napredak\\Aktivan_posao.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:17:39.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "int.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\int.cs",
+              "RelativeDocumentMoniker": "Napredak\\int.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\int.cs",
+              "RelativeToolTip": "Napredak\\int.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:16:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Napredak\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\MainWindow.xaml",
+              "RelativeToolTip": "Napredak\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T16:16:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Napredak\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Napredak\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAASwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:16:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Simulirani_posao.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Simulirani_posao.cs",
+              "RelativeDocumentMoniker": "Napredak\\Simulirani_posao.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Napredak\\Napredak\\Simulirani_posao.cs",
+              "RelativeToolTip": "Napredak\\Simulirani_posao.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:21:38.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
