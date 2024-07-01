@@ -84,7 +84,7 @@ namespace X_Ogame
             podloga.Children.Clear();
             for (int i = 0; i < 3; i++)
             {
-                for(int j = 0; j < 0; j++)
+                for(int j = 0; j < 3; j++)
                 {
                     dugmad[i, j] = new Button();
                     dugmad[i, j].Height = podloga.ActualHeight / 3;

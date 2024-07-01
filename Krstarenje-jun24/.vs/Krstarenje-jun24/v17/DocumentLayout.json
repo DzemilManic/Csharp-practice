@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\",
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\krstarenje-jun24\\krstarenje-jun24\\aktivnaluka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\krstarenje-jun24\\krstarenje-jun24\\plovidba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\plovidba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\krstarenje-jun24\\krstarenje-jun24\\aktivanbrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\aktivanbrod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\c#\\csharp-practice\\krstarenje-jun24\\krstarenje-jun24\\aktivnaluka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\aktivnaluka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\krstarenje-jun24\\krstarenje-jun24\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\krstarenje-jun24\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\krstarenje-jun24\\krstarenje-jun24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\krstarenje-jun24\\putnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\putnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\krstarenje-jun24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\krstarenje-jun24\\krstarenje-jun24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\krstarenje-jun24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|c:\\users\\nazim\\desktop\\d\u017Eemil\\github\\krstarenje-jun24\\krstarenje-jun24\\putnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5CF7A0-92F1-4521-8923-0A72F9F672C9}|Krstarenje-jun24\\Krstarenje-jun24.csproj|solutionrelative:krstarenje-jun24\\putnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,25 +47,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Plovidba.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Plovidba.cs",
+              "RelativeDocumentMoniker": "Krstarenje-jun24\\Plovidba.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Plovidba.cs",
+              "RelativeToolTip": "Krstarenje-jun24\\Plovidba.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:29:16.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AktivanBrod.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\AktivanBrod.cs",
+              "RelativeDocumentMoniker": "Krstarenje-jun24\\AktivanBrod.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\AktivanBrod.cs",
+              "RelativeToolTip": "Krstarenje-jun24\\AktivanBrod.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:27:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AktivnaLuka.cs",
-              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\AktivnaLuka.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\AktivnaLuka.cs",
               "RelativeDocumentMoniker": "Krstarenje-jun24\\AktivnaLuka.cs",
-              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\AktivnaLuka.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\AktivnaLuka.cs",
               "RelativeToolTip": "Krstarenje-jun24\\AktivnaLuka.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAA8wFkAAAA7AAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T17:30:07.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Red.cs",
-              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\Red.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Red.cs",
               "RelativeDocumentMoniker": "Krstarenje-jun24\\Red.cs",
-              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\Red.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Red.cs",
               "RelativeToolTip": "Krstarenje-jun24\\Red.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAnwGMAAAAOAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwGMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T15:22:06.224Z",
               "EditorCaption": ""
@@ -66,39 +104,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Putnik.cs",
-              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\Putnik.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Putnik.cs",
               "RelativeDocumentMoniker": "Krstarenje-jun24\\Putnik.cs",
-              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\Putnik.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\Putnik.cs",
               "RelativeToolTip": "Krstarenje-jun24\\Putnik.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T15:21:35.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Krstarenje-jun24\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml",
               "RelativeToolTip": "Krstarenje-jun24\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-28T15:20:53.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T15:20:53.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Krstarenje-jun24\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\D\u017Eemil\\GitHub\\c#\\Csharp-practice\\Krstarenje-jun24\\Krstarenje-jun24\\MainWindow.xaml.cs",
               "RelativeToolTip": "Krstarenje-jun24\\MainWindow.xaml.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAQwC0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:20:52.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T15:20:52.233Z"
             }
           ]
         }
