@@ -1,0 +1,58 @@
+﻿<Window x:Class="vezbe5z2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vezbe5z2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel>
+                <TextBlock Foreground="blue" Text="postanski broj" Margin="10 10 10 10"/>
+                <TextBlock Foreground="blue" Text="naziv opstine" Margin="10 10 10 10"/>
+                <TextBlock Foreground="Blue" Text="Broj stanovnika" Margin="10 10 10 10"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBox x:Name="txtPB" Margin="10 10 10 10" Width="150"/>
+                <TextBox x:Name="txtNaziv" Margin="10 10 10 10" Width="150"/>
+                <TextBox x:Name="txtBrojStan" Margin="10 10 10 10" Width="150"/>
+                <Button Foreground="blue" Content="dodati opstinu" Click="Button_Click" Margin="10 10 10 10"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Button  Grid.Column="1" Content="X" Height="20" Width="20" VerticalAlignment="Top"
+                 HorizontalAlignment="Right" Click="Button_Click_2"/>
+        <StackPanel Grid.Row="1">
+            <ListView x:Name="LvOpstine">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Post.broj" Width="120" 
+                                        DisplayMemberBinding="{Binding Postbroj}"/>
+                        <GridViewColumn Header="Naziv" Width="120" 
+                                        DisplayMemberBinding="{Binding Naziv}"/>
+                        <GridViewColumn Header="Broj stanovnika" Width="120" 
+                                        DisplayMemberBinding="{Binding BrojStan}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Da" x:Name="btnDa" Click="btnDa_Click"/>
+                <Button Content="Ne" x:Name="btnNe" Click="btnNe_Click"/>
+            </StackPanel>
+            <Button Foreground="red" Content="Obrisati opstinu" Click="Button_Click_1"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom">
+            <TextBlock Foreground="Blue" Text="Prosecan broj stanovnika"/>
+            <TextBox x:Name="txtProsek" Width="173"/>
+        </StackPanel>
+    </Grid>
+</Window>
