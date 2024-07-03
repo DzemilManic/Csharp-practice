@@ -1,0 +1,55 @@
+﻿<Window x:Class="z2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:z2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Label Content="tekst za combobox"/>
+            <TextBox x:Name="txtZaCombo" Margin="10" KeyDown="TextBox_KeyDown"/>
+            <Button HorizontalAlignment="Right" Click="Button_Click" 
+                     Width="60" Margin="10">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <Ellipse Width="5" Height="5" Fill="AliceBlue"/>
+                        <TextBlock Text="C" Margin="5"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <ComboBox Name="cbSadrzaj" SelectionChanged="cbSadrzaj_SelectionChanged" 
+                      Margin="10"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Click="Button_Click_1" Content="Save" Width="60" Margin="10"/>
+                <Button Click="Button_Click_2" Content="Load" Width="60" Margin="10"/>
+            </StackPanel>
+            <Label Content="broj redova za combo"/>
+            <TextBox Margin="10" x:Name="txtBrCombo"/>
+            <Label Content="izabrano u comboboxu"/>
+            <TextBox Margin="10" x:Name="txtSelCombo"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Content=" text za textbox"/>
+            <TextBox x:Name="txtZaList" Margin="10" Foreground="black" KeyDown="txtZaListKeyDown"/>
+            <Button HorizontalAlignment="Right" Content="L" Width="60" Margin="10" 
+                    Click="BtnZaList_Click"/>
+            <ListBox Name="lbSadrzaj" Height="100" Margin="10" KeyDown="TextBox_KeyDown"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Save" Margin="10" Width="60"/>
+                <Button Content="Load" Margin="10" Width="60"/>
+            </StackPanel>
+            <Label Content="broj redova u comboboxu"/>
+            <TextBox x:Name="txtBrList" Margin="10"/>
+            <Label Content="izabrano u comboboxu"/>
+            <TextBox x:Name="txtSelList" Margin="10"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
