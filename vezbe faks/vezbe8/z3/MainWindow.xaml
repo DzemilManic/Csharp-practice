@@ -1,0 +1,36 @@
+﻿<Window x:Class="z3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:z3"
+        mc:Ignorable="d"
+        DataContext="{Binding RelativeSource={RelativeSource sel}}"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Brush x:Key="nasaBoja">#FA21</Brush>
+        <DataTemplate x:Key="tpStudent" DataType="{x:Type local:Student}">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Foreground="{StaticResource nasaBoja}" Text="{Binding Ime}"/>
+                <TextBlock Foreground="{StaticResource nasaBoja}" Text="{Binding Prezime}"/>
+                <TextBlock Foreground="{StaticResource nasaBoja}" Text="{Binding Telefon}"/>
+                <TextBlock Foreground="{StaticResource nasaBoja}" Text="{Binding GodinaStudija}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <StackPanel>
+        <StackPanel>
+            <TextBlock Text="Ime studenta" Margin="5"/>
+            <TextBox Text="{Binding StudentZaDodavanje.Ime}" Margin="5"/>
+            <TextBlock Text="Prezime studenta" Margin="5"/>
+            <TextBox Text="{Binding StudentZaDodavanje.Prezime}" Margin="5"/>
+            <TextBlock Text="Telefon studenta" Margin="5"/>
+            <TextBox Text="{Binding StudentZaDodavanje.Telefon}" Margin="5"/>
+            <TextBlock Text="Godina studija" Margin="5"/>
+            <TextBox Text="{Binding StudentZaDodavanje.GodinaStudija}" Margin="5"/>
+            <Button Content="Predji u sledecu godinu" Click="Button_Click" Margin="10" Width="200"/>
+        </StackPanel>
+        <ListBox ItemsSource="{Binding Studenti}" ItemTemplate="{DynamicResource tpStudent}"/>
+        <Button Content="snimi"/>
+    </StackPanel>
+</Window>
