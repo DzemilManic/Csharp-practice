@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|c:\\users\\nazim\\desktop\\vezbe faks\\vezbe11\\z1\\view\\pagecenovnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\view\\pagecenovnik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\view\\pagecenovnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\view\\pagecenovnik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\loginw.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\loginw.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\loginw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20E3EF90-A33E-4960-86C1-EB91D56400A8}|z1\\z1.csproj|solutionrelative:z1\\loginw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loginw.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\Loginw.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\Loginw.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\Loginw.xaml.cs",
+              "RelativeToolTip": "z1\\Loginw.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:01:46.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loginw.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\Loginw.xaml",
+              "RelativeDocumentMoniker": "z1\\Loginw.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\Loginw.xaml",
+              "RelativeToolTip": "z1\\Loginw.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:01:38.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\MainWindow.xaml",
+              "RelativeToolTip": "z1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:01:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pageCenovnik.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\View\\pageCenovnik.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\View\\pageCenovnik.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\View\\pageCenovnik.xaml.cs",
+              "RelativeToolTip": "z1\\View\\pageCenovnik.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:01:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "z1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:01:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pageCenovnik.xaml",
+              "DocumentMoniker": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\View\\pageCenovnik.xaml",
+              "RelativeDocumentMoniker": "z1\\View\\pageCenovnik.xaml",
+              "ToolTip": "C:\\Users\\Nazim\\Desktop\\vezbe faks\\vezbe11\\z1\\View\\pageCenovnik.xaml",
+              "RelativeToolTip": "z1\\View\\pageCenovnik.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:01:12.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
